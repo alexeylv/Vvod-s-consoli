@@ -1,1 +1,1 @@
-Vvod цшер console
+Vvod with console
